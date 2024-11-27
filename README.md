@@ -45,7 +45,6 @@ We ❤️ contributions!
 📚 Resources
 
 🔗 Lu.ma Documentation
-
 🔗 Lu.ma API Reference
 
 📜 License
