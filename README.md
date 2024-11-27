@@ -25,16 +25,8 @@ Node.js (v16 or higher)
 npm or yarn
 Git
 
-![image](https://github.com/user-attachments/assets/a927c25f-764b-4ed1-8078-c0b96c0a47c0)
-![image](https://github.com/user-attachments/assets/02a42657-6026-46b7-af03-0df30b178015)
-
-Configure environment variables:
-
 Create a .env file in the project root.
 Add your API keys and configuration details for Lu.ma.
-
-![image](https://github.com/user-attachments/assets/41bde8e4-07c3-4dd9-a328-6d76a0e58a5a)
-![image](https://github.com/user-attachments/assets/a760e9f7-7e15-4118-b50c-5e5b2508ecf4)
 
 🛠️ Usage
 Sign in or register on Lu.ma to connect your account.
@@ -44,13 +36,17 @@ Import and manage existing ones.
 Share event links with your audience and track attendee responses in real-time.
 
 🤝 Contributing
+
 We ❤️ contributions!
 
 📚 Resources
+
 🔗 Lu.ma Documentation
+
 🔗 Lu.ma API Reference
 
 📜 License
+
 This project is licensed under the MIT License.
 
 Let me know if you want any further refinements or specific tweaks! 🚀
